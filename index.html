@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Catalogue</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>BOOK STORE </i></h1>
+        <div id="controls">
+            <input type="text" id="search-input" placeholder="Search by title or author...">
+            <select id="genre-filter">
+                <option value="">All Genres</option>
+                <option value="Fantasy">Fantasy</option>
+                <option value="Science Fiction">Science Fiction</option>
+                <option value="Mystery">Mystery</option>
+                <option value="Romance">Romance</option>
+            </select>
+            <select id="sort-options">
+                <option value="">Sort By</option>
+                <option value="title">Title (A-Z)</option>
+                <option value="year">Year (Newest)</option>
+            </select>
+        </div>
+    </header>
+
+    <main>
+        <section id="books-container"></section>
+        <div id="pagination"></div>
+        <div id="error-message"></div>
+    </main>
+
+    <footer>
+        <p>Book Catalogue &copy; 2024</p>
+    </footer>
+
+   
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="scriptfile.js"></script>
+</body>
+</html>

@@ -1,0 +1,58 @@
+[
+    {
+        "title": "The Enchanted Forest",
+        "author": "J.K. Rowling",
+        "genre": "Fantasy",
+        "year": 2007,
+        "coverImage": "enchanted forest.jpg"
+    },
+    {
+        "title": "Space Odyssey",
+        "author": "Arthur C. Clarke",
+        "genre": "Science Fiction",
+        "year": 1968,
+        "coverImage": "space odyssey.jpg"
+    },
+    {
+        "title": "Mystery of the Old House",
+        "author": "Agatha Christie",
+        "genre": "Mystery",
+        "year": 1937,
+        "coverImage": "book3.jpg"
+    },
+    {
+        "title": "Love in Paris",
+        "author": "Nicholas Sparks",
+        "genre": "Romance",
+        "year": 2012,
+        "coverImage": "love in paris.png"
+    },
+    {
+        "title": "Dragons of the North",
+        "author": "George R.R. Martin",
+        "genre": "Fantasy",
+        "year": 1996,
+        "coverImage": "dragons.jpg"
+    },
+    {
+        "title": "The Time Machine",
+        "author": "H.G. Wells",
+        "genre": "Science Fiction",
+        "year": 1895,
+        "coverImage": "time machine.jpg"
+    },
+    {
+        "title": "The Silent Witness",
+        "author": "Gillian Flynn",
+        "genre": "Mystery",
+        "year": 2015,
+        "coverImage": "silent witness.jpeg"
+    },
+    {
+        "title": "A Walk to Remember",
+        "author": "Nicholas Sparks",
+        "genre": "Romance",
+        "year": 1999,
+        "coverImage": "a-walk-to-remember-.jpeg"
+    }
+]
